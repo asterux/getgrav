@@ -1,9 +1,12 @@
 ---
 title: 'Week 4 (Sep 27 - Oct 3)'
-date: 09/27/2017
-published: true
+published: false
+date: '27-09-2017 00:00'
 header_image_credit: 'Rick Dolishny, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/rdolishny/2760207306/'
+hide_from_post_list: false
+continue_link: true
+hide_git_sync_repo_link: false
 ---
 
 ##### Presented Slides
