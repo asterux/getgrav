@@ -1,13 +1,13 @@
 ---
 title: 'Programme d''études'
-published: true
 content:
     items: '@self.children'
-    limit: '5'
     order:
         by: date
         dir: desc
+    limit: '5'
     pagination: '1'
+published: true
 hide_git_sync_repo_link: false
 ---
 
