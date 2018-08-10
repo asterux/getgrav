@@ -1,6 +1,13 @@
 ---
 title: 'Programme d''études'
 published: true
+content:
+    items: '@self.children'
+    limit: '5'
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
 hide_git_sync_repo_link: false
 ---
 
