@@ -2,7 +2,7 @@
 title: 'Semaine 6'
 published: true
 private: false
-date: '11-10-2017 00:00'
+date: '11-10-2018 00:00'
 header_image_credit: 'K2_UX, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/k2_ux/8447614292/'
 hide_from_post_list: true
