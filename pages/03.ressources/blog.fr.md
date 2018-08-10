@@ -1,6 +1,14 @@
 ---
 title: Resources
 published: true
+private: false
+content:
+    items: '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
 ---
 
 #### Reflective Writing Guides  
