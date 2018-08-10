@@ -1,7 +1,9 @@
 ---
 title: 'Mini Homepage for Embedding'
-hide_page_title: true
+published: false
+private: false
 visible: false
+hide_page_title: true
 hide_git_sync_repo_link: true
 page-inject:
     processed_content: null
