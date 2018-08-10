@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Ressources
 published: true
 private: false
 content:
