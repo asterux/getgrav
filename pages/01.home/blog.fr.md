@@ -9,6 +9,8 @@ content:
         by: date
         dir: desc
     pagination: '1'
+override_default_title: Accueil
+override_default_desc: 'Blog collaboratif de la communauté des apprenants UX UI - activités digitales'
 hero_scroll: false
 show_sidebar: true
 display_post_summary: false
