@@ -1,5 +1,5 @@
 ---
-title: Read Me
+title: 'Read Me'
 published: true
 hide_page_title: true
 ---
